@@ -1,0 +1,18 @@
+body{
+    background: radial-gradient(rgb(255, 255, 255), rgb(219, 219, 219));
+    height: 100vh;
+}
+
+.fav-btn{
+    width: 30px;
+    height: 30px;
+    background-color: #fff;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    border: none;
+}
